@@ -1,0 +1,18 @@
+FUNCTIONAL REQUIREMENTS:
+
+1. The system shall provide a functionality to rate(1) pub services(2).
+
+2. The system shall provide a functionality to:
+	a. create a matching (3);
+	b. share the created matching(3) to the pub showcase.
+
+3. The system shall provide a system of filters(4) for the pubs research.
+
+
+DICTIONARY:
+
+rate(1): users can rate the pub services by choosing stars in a range of 1 -:- 5 stars.
+services(2): menu, service, location, price.
+matching(3): this refers to a matching between food and drink.
+filters(4): filters are by style, position, ratings, type of foods & drinks
+
