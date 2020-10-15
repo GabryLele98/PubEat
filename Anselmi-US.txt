@@ -1,0 +1,14 @@
+USER STORIES:
+
+1. As a restaurant client, I want to rate the pub services(1), so that I can express my opinion.
+
+2. As a social user, I want to share my own matching(2) to the pub showcase, so that other users may view my preferences and may rate them.
+
+3. As a user, I want filters(3) for the pubs research, so that I can look for the pub that meets my needs.
+
+
+DICTIONARY:
+
+services(1): menu, service, location, price.
+matching(2): this refers to a matching between food and drink.
+filters(3): filters are by style, position, ratings, type of foods & drinks
