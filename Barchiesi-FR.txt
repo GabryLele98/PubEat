@@ -1,0 +1,3 @@
+1.	The system shall provide a way for the restaurateur to manage its menu.
+2.	The system shall provide a way for logged user to manage their order.
+3.	The system shall provide a payment method for logged user.

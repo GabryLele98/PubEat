@@ -1,0 +1,3 @@
+1.	As a logged user, I want to add food and drinks to the order from the chosen pub menu, so that they can bring it to my table.
+2.	As a restaurateur, I want to publish my menu, so that users can consult it.
+3.	As a logged user, I want a way to pay my consumption bill, so that I can pay without any contact.
